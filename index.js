@@ -79,5 +79,4 @@ function multiplicarArrayPorNumero(array, numero) {
   }
 }
 
-document.getElementById("resultado8").innerText = multiplicarArrayPorNumero([1, 2, 3, 4], 5);
  
